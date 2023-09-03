@@ -1,2 +1,2 @@
 # racai-hmt
-Church Database Application for RACAi - His Majesty's Tabernacle
+Church Database Application - RACAi (His Majesty's Tabernacle)
